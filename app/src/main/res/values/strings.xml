@@ -16,4 +16,6 @@
     <string name="show_name"></string>
     <string name="show_lastname"></string>
     <string name="show_age"></string>
+    <string name="back">Back</string>
+    <string name="toast_return_success">Returned back successfully</string>
 </resources>

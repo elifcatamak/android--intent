@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3F51B5"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/wizardhat"
+        android:contentDescription="@string/wizard_hat"/>
+
+    <TextView
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:text="@string/textview_name"
+        android:layout_marginTop="50dp"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/edittext_id_name"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/edittext_hint_name"
+        android:backgroundTint="@android:color/white"/>
+
+    <TextView
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:text="@string/textview_lastname"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/edittext_id_lastname"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/edittext_hint_lastname"
+        android:backgroundTint="@android:color/white"/>
+
+    <TextView
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:text="@string/textview_age"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/edittext_id_age"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="@string/edittext_hint_age"
+        android:backgroundTint="@android:color/white" />
+
+    <Button
+        android:id="@+id/button_submit"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="#2B3E94"
+        android:textColor="@android:color/white"
+        android:text="@string/button_submit" />
+
+</LinearLayout>

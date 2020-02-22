@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntentPractice</string>
+    <string name="wizard_hat">Wizard Hat</string>
+    <string name="textview_name">Name</string>
+    <string name="edittext_hint_name">Your name here</string>
+    <string name="textview_lastname">Last name</string>
+    <string name="edittext_hint_lastname">Your last name here</string>
+    <string name="textview_age">Age</string>
+    <string name="edittext_hint_age">Your age here</string>
+    <string name="button_submit">SUBMIT</string>
+    <string name="toast_invalid_age">Age is invalid</string>
+    <string name="wand">Wand</string>
+    <string name="show_name_tag">Name: </string>
+    <string name="show_lastname_tag">Last name: </string>
+    <string name="show_age_tag">Age: </string>
+    <string name="show_name"></string>
+    <string name="show_lastname"></string>
+    <string name="show_age"></string>
+</resources>

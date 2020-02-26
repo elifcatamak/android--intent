@@ -8,9 +8,7 @@ The back arrow button on the second activity lets user to come back to the main 
 
 ## Screenshots
 ### Main activity
-![ssone](docs/screenshots/ssone.png)
-
-![sstwo](docs/screenshots/sstwo.png)
+![ssone](docs/screenshots/ssone.png) &nbsp;&nbsp;&nbsp; ![sstwo](docs/screenshots/sstwo.png)
 
 ### Second activity
 ![ssthree](docs/screenshots/ssthree.png)
